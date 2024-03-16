@@ -27,6 +27,16 @@ A Google Gen Ai based python script  which takes text input from user and decide
 3. **Run Analysis:** Call the function with user input or test data to detect emotions and assign tags.
 
 
+
+# It should work like this!
+![Running notebook cells](gifs/output.gif)
+
+
+
+# Struggle :sweat_smile:
+![Struggle](gifs/cross.gif)
+
+
 ### Next Steps
 
 - Integrate a user interface if you want to create a standalone app.
