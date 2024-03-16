@@ -20,10 +20,10 @@ A Google Gen Ai based python script  which takes text input from user and decide
 1. **Download Dataset from Kaggle:** If your client provides training data, download it from Kaggle. Ensure the data is formatted appropriately for text analysis and emotion tagging (e.g., columns for text and corresponding emotion labels). You can use the Kaggle API with Python to automate the download process.
 2. **Data Preprocessing:** Clean and pre-process the training data as needed. This might involve removing irrelevant information, handling missing values, converting text to lowercase, and potentially performing more advanced techniques like tokenization and stemming.
 
-### Model Training and Usage (**Note:** This is a general outline. Refer to the Google Cloud Natural Language API documentation for specific implementation details.)
+### Model Training and Usage (**Note:** This is a general outline. Refer to the Google Gen Ai API documentation for specific implementation details.)
 
-1. **Import Libraries:** Import the necessary libraries, including your authentication credentials for the Natural Language API.
-2. **Define Function:** Create a function that takes text input, interacts with the Natural Language API, and returns the predicted emotions.
+1. **Import Libraries:** Import the necessary libraries, including your authentication credentials for the Google Gen Ai API.
+2. **Define Function:** Create a function that takes text input, interacts with the Google Gen Ai API, and returns the predicted emotions.
 3. **Run Analysis:** Call the function with user input or test data to detect emotions and assign tags.
 
 
